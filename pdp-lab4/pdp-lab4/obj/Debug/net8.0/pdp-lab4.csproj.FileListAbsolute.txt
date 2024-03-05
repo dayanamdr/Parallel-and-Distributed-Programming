@@ -1,0 +1,14 @@
+/Users/dayana/RiderProjects/pdp-lab4/pdp-lab4/bin/Debug/net8.0/pdp-lab4
+/Users/dayana/RiderProjects/pdp-lab4/pdp-lab4/bin/Debug/net8.0/pdp-lab4.deps.json
+/Users/dayana/RiderProjects/pdp-lab4/pdp-lab4/bin/Debug/net8.0/pdp-lab4.runtimeconfig.json
+/Users/dayana/RiderProjects/pdp-lab4/pdp-lab4/bin/Debug/net8.0/pdp-lab4.dll
+/Users/dayana/RiderProjects/pdp-lab4/pdp-lab4/bin/Debug/net8.0/pdp-lab4.pdb
+/Users/dayana/RiderProjects/pdp-lab4/pdp-lab4/obj/Debug/net8.0/pdp-lab4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dayana/RiderProjects/pdp-lab4/pdp-lab4/obj/Debug/net8.0/pdp-lab4.AssemblyInfoInputs.cache
+/Users/dayana/RiderProjects/pdp-lab4/pdp-lab4/obj/Debug/net8.0/pdp-lab4.AssemblyInfo.cs
+/Users/dayana/RiderProjects/pdp-lab4/pdp-lab4/obj/Debug/net8.0/pdp-lab4.csproj.CoreCompileInputs.cache
+/Users/dayana/RiderProjects/pdp-lab4/pdp-lab4/obj/Debug/net8.0/pdp-lab4.dll
+/Users/dayana/RiderProjects/pdp-lab4/pdp-lab4/obj/Debug/net8.0/refint/pdp-lab4.dll
+/Users/dayana/RiderProjects/pdp-lab4/pdp-lab4/obj/Debug/net8.0/pdp-lab4.pdb
+/Users/dayana/RiderProjects/pdp-lab4/pdp-lab4/obj/Debug/net8.0/pdp-lab4.genruntimeconfig.cache
+/Users/dayana/RiderProjects/pdp-lab4/pdp-lab4/obj/Debug/net8.0/ref/pdp-lab4.dll
